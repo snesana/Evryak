@@ -1,0 +1,15 @@
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\bin\Debug\net6.0\Exampel_001 HelloConsol.exe
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\bin\Debug\net6.0\Exampel_001 HelloConsol.deps.json
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\bin\Debug\net6.0\Exampel_001 HelloConsol.runtimeconfig.json
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\bin\Debug\net6.0\Exampel_001 HelloConsol.dll
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\bin\Debug\net6.0\Exampel_001 HelloConsol.pdb
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.csproj.AssemblyReference.cache
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.AssemblyInfoInputs.cache
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.AssemblyInfo.cs
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.csproj.CoreCompileInputs.cache
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.dll
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\refint\Exampel_001 HelloConsol.dll
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.pdb
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\Exampel_001 HelloConsol.genruntimeconfig.cache
+C:\Users\джайн\Desktop\Erf\Exampel_001 HelloConsol\obj\Debug\net6.0\ref\Exampel_001 HelloConsol.dll
